@@ -4,6 +4,8 @@
 #include <fstream>
 #include <string>
 #include <list>
+#include <queue>
+#include <stack>
 
 using std::cout;
 using std::endl;
@@ -17,6 +19,7 @@ class Sokoban
 		struct Stage
 		{
 			int row, col;
+			bool isDead;
 			char** matrix;
 
 				Stage();
@@ -28,12 +31,24 @@ class Sokoban
 			const int GetRow() { return this->row; }
 			void SetCol(int c) { this->col = c; }
 			const int GetCol() { return this->col; }
+			void SetIsDead(bool d) { this->isDead = d; }
+			const bool GetIsDead() { return this->isDead; }
 		};
+		struct StorageLoc
+		{
+			int row, col;
+				StorageLoc();
+				StorageLoc(int r, int c);
+		};
+
+		list<StorageLoc> listOfStorageLoc;
+
 	public:
 		bool Initialize(Stage&);
 		bool GetDimensionMatrix(std::ifstream& inFile, Stage&);
 
 		const void Display(Stage&);
+		const void Display(list<Stage>&);
 		void CopyStages(Stage&, Stage&);
 
 		Stage MoveUp(Stage&);
@@ -41,5 +56,9 @@ class Sokoban
 		Stage MoveRight(Stage&);
 		Stage MoveLeft(Stage&);
 
+		bool BFS(Stage&, list<Stage>&);
+		bool DFS(Stage&);
+
+		bool CheckIfEnd(Stage&);
 		bool Control();
 };

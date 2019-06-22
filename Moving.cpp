@@ -9,13 +9,18 @@ Sokoban::Stage Sokoban::MoveUp(Stage& current)
 	{
 		for (int j = 0; j < temp.GetCol(); j++)
 		{
-			if (temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == 'B' && temp.matrix[i - 2][j] == ' ')
+			if ((temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == 'B' && temp.matrix[i - 2][j] == 'B') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == 'B' && temp.matrix[i - 2][j] == 'O') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == 'O'))
+			{
+				temp.isDead = true;
+				return temp;
+			}
+			else if (temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == 'B' && temp.matrix[i - 2][j] == ' ')
 			{
 				temp.matrix[i - 1][j] = 'R';
 				temp.matrix[i - 2][j] = 'B';
 				temp.matrix[i][j] = ' ';
-				
-				//newStage.boxOver = 0;
 				return temp;
 			}
 			else if (temp.matrix[i][j] == 'R' && temp.matrix[i - 1][j] == ' ')
@@ -39,13 +44,18 @@ Sokoban::Stage Sokoban::MoveDown(Stage& current)
 	{
 		for (int j = 0; j < temp.GetCol(); j++)
 		{
-			if (temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i + 2][j] == ' ')
+			if ((temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i + 2][j] == 'B') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i + 2][j] == 'O') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == 'O'))
+			{
+				temp.isDead = true;
+				return temp;
+			}
+			else if (temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i + 2][j] == ' ')
 			{
 				temp.matrix[i + 1][j] = 'R';
 				temp.matrix[i + 2][j] = 'B';
 				temp.matrix[i][j] = ' ';
-				
-				//newStage.boxOver = 0;
 				return temp;
 			}
 			else if (temp.matrix[i][j] == 'R' && temp.matrix[i + 1][j] == ' ')
@@ -69,13 +79,18 @@ Sokoban::Stage Sokoban::MoveRight(Stage& current)
 	{
 		for (int j = 0; j < temp.GetCol(); j++)
 		{
-			if (temp.matrix[i][j] == 'R' && temp.matrix[i][j + 1] == 'B' && temp.matrix[i][j + 2] == ' ')
+			if ((temp.matrix[i][j] == 'R' && temp.matrix[i][j + 1] == 'B' && temp.matrix[i][j + 2] == 'B') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i][j + 2] == 'B' && temp.matrix[i][j + 2] == 'O') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i][j + 1] == 'O'))
+			{
+				temp.isDead = true;
+				return temp;
+			}
+			else if (temp.matrix[i][j] == 'R' && temp.matrix[i][j + 1] == 'B' && temp.matrix[i][j + 2] == ' ')
 			{
 				temp.matrix[i][j + 1] = 'R';
 				temp.matrix[i][j + 2] = 'B';
 				temp.matrix[i][j] = ' ';
-
-				//newStage.boxOver = 0;
 				return temp;
 			}
 			else if (temp.matrix[i][j] == 'R' && temp.matrix[i][j + 1] == ' ')
@@ -99,17 +114,21 @@ Sokoban::Stage Sokoban::MoveLeft(Stage& current)
 	{
 		for (int j = 0; j < temp.GetCol(); j++)
 		{
-			if (temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == 'B' && temp.matrix[i][j - 2] == ' ')
+			if ((temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == 'B' && temp.matrix[i][j - 2] == 'B') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i][j - 2] == 'B' && temp.matrix[i][j - 2] == 'O') ||
+				(temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == 'O'))
+			{
+				temp.isDead = true;
+				return temp;
+			}
+			else if (temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == 'B' && temp.matrix[i][j - 2] == ' ')
 			{
 				temp.matrix[i][j - 1] = 'R';
 				temp.matrix[i][j - 2] = 'B';
-				temp.matrix[i][j] = ' ';
-				//newStage.boxOver = 10;
-				//newStage.boxOver = 0;
-				
+				temp.matrix[i][j] = ' ';			
 				return temp;
 			}
-			if (temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == ' ')
+			else if (temp.matrix[i][j] == 'R' && temp.matrix[i][j - 1] == ' ')
 			{
 				temp.matrix[i][j - 1] = 'R';
 				temp.matrix[i][j] = ' ';

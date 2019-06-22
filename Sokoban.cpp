@@ -4,12 +4,14 @@ Sokoban::Stage::Stage()
 {
 	this->row = 0;
 	this->col = 0;
+	this->isDead = false;
 }
 
 Sokoban::Stage::Stage(int r, int c)
 {
 	this->row = r;
 	this->col = c;
+	this->isDead = false;
 	this->matrix = new char *[this->row];
 	for (int i = 0; i < this->row; i++)
 	{
@@ -25,6 +27,7 @@ Sokoban::Stage::Stage(const Stage& obj)
 {
 	this->row = obj.row;
 	this->col = obj.col;
+	this->isDead = obj.isDead;
 	this->matrix = new char *[this->row];
 	for (int i = 0; i < this->row; i++)
 	{
@@ -47,6 +50,18 @@ Sokoban::Stage::~Stage()
 	// delete matrix as a whole
 	delete[] this->matrix;
 	//std::cerr << "Deleted" << endl;
+}
+
+Sokoban::StorageLoc::StorageLoc()
+{
+	this->row = -1;
+	this->col = -1;
+}
+
+Sokoban::StorageLoc::StorageLoc(int r, int c)
+{
+	this->row = r;
+	this->col = c;
 }
 
 bool Sokoban::GetDimensionMatrix(std::ifstream& inFile, Stage& current)
@@ -92,11 +107,15 @@ bool Sokoban::Initialize(Stage& current)
 		for (int j = 0; j < current.GetCol(); j++)
 		{
 			current.matrix[i][j] = inFile.get();
+			if (current.matrix[i][j] == 'S')
+			{
+				listOfStorageLoc.push_back(StorageLoc(i, j));
+			}
 		}
 		inFile.ignore();
 	}
 
-	Display(current);
+	//Display(current);
 
 	return true;
 }
@@ -113,10 +132,19 @@ const void Sokoban::Display(Stage& current)
 	}
 }
 
+const void Sokoban::Display(list<Stage>& closeList)
+{
+	for (list<Stage>::iterator itr = closeList.begin(); itr != closeList.end(); itr++)
+	{
+		Display(*itr);
+	}
+}
+
 void Sokoban::CopyStages(Stage& lhs, Stage& rhs)
 {
 	lhs.SetRow(rhs.GetRow());
 	lhs.SetCol(rhs.GetCol());
+	lhs.SetIsDead(rhs.GetIsDead());
 	for (int i = 0; i < lhs.GetRow(); i++)
 	{
 		for (int j = 0; j < lhs.GetCol(); j++)
@@ -126,14 +154,27 @@ void Sokoban::CopyStages(Stage& lhs, Stage& rhs)
 	}
 }
 
+bool Sokoban::CheckIfEnd(Stage& current)
+{
+	for (list<StorageLoc>::iterator itr = listOfStorageLoc.begin(); itr != listOfStorageLoc.end(); itr++)
+	{
+		if (current.matrix[itr->row][itr->col] != 'B')
+		{
+			return false;
+		}
+	}
+	return true;
+}
+
 bool Sokoban::Control()
 {
 	Stage new1;
-	list<Stage> queueStages;
-
+	list<Stage> closedList;
+	
 	Initialize(new1);
-	queueStages.push_back(MoveDown(new1));
+	BFS(new1, closedList);
 
-	Display(queueStages.front());
+	Display(closedList);
+	
 	return true;
 }
