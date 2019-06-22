@@ -28,7 +28,7 @@ Sokoban::Stage::Stage(const Stage& obj)
 	this->matrix = new char *[this->row];
 	for (int i = 0; i < this->row; i++)
 	{
-		this->matrix[i] = new char[this->col];
+		this->matrix[i] = new char [this->col];
 		for (int j = 0; j < this->col; j++)
 		{
 			this->matrix[i][j] = obj.matrix[i][j];
@@ -72,7 +72,7 @@ bool Sokoban::GetDimensionMatrix(std::ifstream& inFile, Stage& current)
 bool Sokoban::Initialize(Stage& current)
 {
 	std::ifstream inFile;
-	int r = 0, c = 0;
+	int r = 0 , c = 0;
 	inFile.open("Puzzles.txt", std::ifstream::in);
 
 	if (!inFile)
@@ -88,7 +88,7 @@ bool Sokoban::Initialize(Stage& current)
 	current.matrix = new char *[current.GetRow()];
 	for (int i = 0; i < current.GetRow(); i++)
 	{
-		current.matrix[i] = new char[current.GetCol()];
+		current.matrix[i] = new char [current.GetCol()];
 		for (int j = 0; j < current.GetCol(); j++)
 		{
 			current.matrix[i][j] = inFile.get();
