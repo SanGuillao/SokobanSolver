@@ -40,21 +40,34 @@ class Sokoban
 				StorageLoc();
 				StorageLoc(int r, int c);
 		};
+		struct RobotLoc
+		{
+			int row, col;
+				RobotLoc();
+				RobotLoc(int r, int c);
+		};
 
 		list<StorageLoc> listOfStorageLoc;
+		RobotLoc locationOfRobot;
 
 	public:
 		bool Initialize(Stage&);
 		bool GetDimensionMatrix(std::ifstream& inFile, Stage&);
+		bool OutputList(list<Stage>&);
 
 		const void Display(Stage&);
 		const void Display(list<Stage>&);
 		void CopyStages(Stage&, Stage&);
+		bool CompareStages(Stage&, Stage&);
+		bool CompareStages(Stage&, list<Stage>&);
 
 		Stage MoveUp(Stage&);
 		Stage MoveDown(Stage&);
 		Stage MoveRight(Stage&);
 		Stage MoveLeft(Stage&);
+		bool IsStageDead(Stage&);
+
+		RobotLoc GetRobot(Stage&);
 
 		bool BFS(Stage&, list<Stage>&);
 		bool DFS(Stage&);

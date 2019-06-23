@@ -3,9 +3,10 @@
 bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 {
 	std::queue<Stage> queueStages;
-	bool isDone = false;
+	int counter = 0;
 
 	closedList.push_back(current);
+	GetRobot(current);
 
 	do
 	{
@@ -29,12 +30,31 @@ bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 			queueStages.push(MoveDown(current));
 		}
 
-		CopyStages(current, queueStages.front());
-		closedList.push_back(current);
-		queueStages.pop();
-		isDone = true;
+		//Display(current);
+		//cout << queueStages.size() << endl;
+		if (queueStages.size() != 0)
+		{
+			CopyStages(current, queueStages.front());
+			queueStages.pop();
 
-	} while (!isDone);
+			while (CompareStages(current, closedList))
+			{
+				CopyStages(current, queueStages.front());
+				queueStages.pop();
+			}
+			
+			closedList.push_back(current);
+			GetRobot(current);
+		}
+		
+	} while (!CheckIfEnd(current));
 	
-	return true;
+	if (CheckIfEnd(current))
+	{
+		OutputList(closedList);
+		return true;
+	}
+	//Display(closedList);
+	cout << "Could not find a solution" << endl;
+	return false;
 }

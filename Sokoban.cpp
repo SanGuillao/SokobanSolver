@@ -64,6 +64,35 @@ Sokoban::StorageLoc::StorageLoc(int r, int c)
 	this->col = c;
 }
 
+Sokoban::RobotLoc::RobotLoc()
+{
+	this->row = -1;
+	this->col = -1;
+}
+
+Sokoban::RobotLoc::RobotLoc(int r, int c)
+{
+	this->row = r;
+	this->col = c;
+}
+
+Sokoban::RobotLoc Sokoban::GetRobot(Stage& current)
+{
+	for (int i = 0; i < current.GetRow(); i++)
+	{
+		for (int j = 0; j < current.GetCol(); j++)
+		{
+			if (current.matrix[i][j] == 'R')
+			{
+				locationOfRobot.row = i;
+				locationOfRobot.col = j;
+				return locationOfRobot;
+			}
+		}
+	}
+	//return locationOfRobot;
+}
+
 bool Sokoban::GetDimensionMatrix(std::ifstream& inFile, Stage& current)
 {
 	int r = 0, c = 0;
@@ -120,6 +149,32 @@ bool Sokoban::Initialize(Stage& current)
 	return true;
 }
 
+bool Sokoban::OutputList(list<Stage>& closedList)
+{
+	std::ofstream outFile;
+	outFile.open("BFS_Output.txt", std::ofstream::out);
+
+	if (!outFile)
+	{
+		cout << "Could not create/open BFS_Outfile.txt file" << endl;
+		return false;
+	}
+
+	for (list<Stage>::iterator itr = closedList.begin(); itr != closedList.end(); itr++)
+	{
+		for (int i = 0; i < itr->GetRow(); i++)
+		{
+			for (int j = 0; j < itr->GetCol(); j++)
+			{
+				outFile << itr->matrix[i][j];
+			}
+			outFile << endl;
+		}
+	}
+
+	return true;
+}
+
 const void Sokoban::Display(Stage& current)
 {
 	for (int i = 0; i < current.GetRow(); i++)
@@ -154,6 +209,29 @@ void Sokoban::CopyStages(Stage& lhs, Stage& rhs)
 	}
 }
 
+bool Sokoban::CompareStages(Stage& lhs, Stage& rhs)
+{
+	for (int i = 0; i < rhs.GetRow(); i++)
+	{
+		for (int j = 0; j < rhs.GetCol(); j++)
+		{
+			if (lhs.matrix[i][j] != rhs.matrix[i][j])
+				return false;
+		}
+	}
+	return true;
+}
+
+bool Sokoban::CompareStages(Stage& current, list<Stage>& closedList)
+{
+	for (list<Stage>::iterator itr =closedList.begin(); itr != closedList.end(); itr++)
+	{
+		if (CompareStages(current, *itr))
+			return true;
+	}
+	return false;
+}
+
 bool Sokoban::CheckIfEnd(Stage& current)
 {
 	for (list<StorageLoc>::iterator itr = listOfStorageLoc.begin(); itr != listOfStorageLoc.end(); itr++)
@@ -174,7 +252,7 @@ bool Sokoban::Control()
 	Initialize(new1);
 	BFS(new1, closedList);
 
-	Display(closedList);
+	//Display(closedList);
 	
 	return true;
 }
