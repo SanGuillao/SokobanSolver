@@ -76,7 +76,7 @@ Sokoban::RobotLoc::RobotLoc(int r, int c)
 	this->col = c;
 }
 
-Sokoban::RobotLoc Sokoban::GetRobot(Stage& current)
+void Sokoban::GetRobot(Stage& current)
 {
 	for (int i = 0; i < current.GetRow(); i++)
 	{
@@ -86,11 +86,9 @@ Sokoban::RobotLoc Sokoban::GetRobot(Stage& current)
 			{
 				locationOfRobot.row = i;
 				locationOfRobot.col = j;
-				return locationOfRobot;
 			}
 		}
 	}
-	//return locationOfRobot;
 }
 
 bool Sokoban::GetDimensionMatrix(std::ifstream& inFile, Stage& current)
@@ -192,6 +190,15 @@ const void Sokoban::Display(list<Stage>& closeList)
 	for (list<Stage>::iterator itr = closeList.begin(); itr != closeList.end(); itr++)
 	{
 		Display(*itr);
+	}
+}
+
+void Sokoban::PutSBack(Stage& current)
+{
+	for (list<StorageLoc>::iterator itr = listOfStorageLoc.begin(); itr != listOfStorageLoc.end(); itr++)
+	{
+		if (current.matrix[itr->row][itr->col] == ' ')
+			current.matrix[itr->row][itr->col] = 'S';
 	}
 }
 

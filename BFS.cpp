@@ -37,24 +37,25 @@ bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 			CopyStages(current, queueStages.front());
 			queueStages.pop();
 
-			while (CompareStages(current, closedList))
+			while (CompareStages(current, closedList) && queueStages.size() != 0)
 			{
 				CopyStages(current, queueStages.front());
 				queueStages.pop();
 			}
 			
+			PutSBack(current);
 			closedList.push_back(current);
 			GetRobot(current);
 		}
-		
+		else
+		{
+			cout << "Could not find a solution" << endl;
+			return false;
+		}
+
+
 	} while (!CheckIfEnd(current));
-	
-	if (CheckIfEnd(current))
-	{
-		OutputList(closedList);
-		return true;
-	}
-	//Display(closedList);
-	cout << "Could not find a solution" << endl;
-	return false;
+
+	OutputList(closedList);
+	return true;
 }

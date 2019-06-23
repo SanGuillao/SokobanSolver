@@ -66,8 +66,9 @@ class Sokoban
 		Stage MoveRight(Stage&);
 		Stage MoveLeft(Stage&);
 		bool IsStageDead(Stage&);
+		void PutSBack(Stage&);
 
-		RobotLoc GetRobot(Stage&);
+		void GetRobot(Stage&);
 
 		bool BFS(Stage&, list<Stage>&);
 		bool DFS(Stage&);
