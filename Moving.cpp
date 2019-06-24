@@ -28,6 +28,7 @@ bool Sokoban::IsStageDead(Stage& temp)
 				return true;
 		}
 	}
+
 	return false;
 }
 

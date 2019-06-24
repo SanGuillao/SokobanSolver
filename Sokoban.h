@@ -52,12 +52,13 @@ class Sokoban
 		list<StorageLoc> listOfStorageLoc;
 		// location of the robot, that way we can always find the Robot
 		RobotLoc locationOfRobot;
+		// these two will hold the beginning and end time of the selected search method
 		time_t begin, end;
 
 	public:
 		bool Initialize(Stage&);
 		bool GetDimensionMatrix(std::ifstream& inFile, Stage&);
-		bool OutputList(list<Stage>&);
+		bool OutputList(list<Stage>&, std::string);
 
 		const void Display(Stage&);
 		const void Display(list<Stage>&);

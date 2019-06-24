@@ -147,11 +147,12 @@ bool Sokoban::Initialize(Stage& current)
 	return true;
 }
 
-bool Sokoban::OutputList(list<Stage>& closedList)
+bool Sokoban::OutputList(list<Stage>& closedList, std::string fileName)
 {
 	double difference = 0;
 	std::ofstream outFile;
-	outFile.open("BFS_Output.txt", std::ofstream::out);
+	fileName += "_Output.txt";
+	outFile.open(fileName.c_str(), std::ofstream::out);
 
 	if (!outFile)
 	{
@@ -259,9 +260,41 @@ bool Sokoban::Control()
 {
 	Stage new1;
 	list<Stage> closedList;
+	int user = -1;
+
+	do
+	{
+		cout << "1. Load puzzle from file" << endl;
+		cout << "2. Solve puzzle using Breadth First Search" << endl;
+		cout << "3. Sovle puzzle using Depth First Search" << endl;
+		cout << "0. Quit" << endl;
+		std::cin >> user;
+		
+		if (user == 1)
+		{
+			cout << "Coming soon.." << endl;
+		}
+		else if (user == 2)
+		{
+			Initialize(new1);
+			BFS(new1, closedList);
+		}
+		else if (user == 3)
+		{
+			Initialize(new1);
+			DFS(new1, closedList);
+		}
+		else if (user == 0)
+		{
+			cout << "Solver will now quit.." << endl;
+			return true;
+		}
+	} while (user >= 0 && user < 4);
 	
-	Initialize(new1);
-	BFS(new1, closedList);
+	
+	//Initialize(new1);
+	//BFS(new1, closedList);
+	//DFS(new1, closedList);
 
 	//Display(closedList);
 	

@@ -42,6 +42,7 @@ bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 			{
 				CopyStages(current, queueStages.front());
 				queueStages.pop();
+				PutSBack(current);
 			}
 			
 			PutSBack(current);
@@ -59,6 +60,14 @@ bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 
 	time(&end);
 	cout << "BFS has found a solution. Outputting to BFS_Output.txt now..." << endl;
-	OutputList(closedList);
+	OutputList(closedList, "BFS");
+	while (!queueStages.empty())
+	{
+		queueStages.pop();
+	}
+	while (!closedList.empty())
+	{
+		closedList.pop_front();
+	}
 	return true;
 }
