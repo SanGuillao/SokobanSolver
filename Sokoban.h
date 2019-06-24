@@ -6,6 +6,7 @@
 #include <list>
 #include <queue>
 #include <stack>
+#include <ctime>
 
 using std::cout;
 using std::endl;
@@ -46,9 +47,12 @@ class Sokoban
 				RobotLoc();
 				RobotLoc(int r, int c);
 		};
-
+		
+		// list for holding the locations of the storages, that way we can immediataly find the location of all the storage points
 		list<StorageLoc> listOfStorageLoc;
+		// location of the robot, that way we can always find the Robot
 		RobotLoc locationOfRobot;
+		time_t begin, end;
 
 	public:
 		bool Initialize(Stage&);
@@ -71,7 +75,7 @@ class Sokoban
 		void GetRobot(Stage&);
 
 		bool BFS(Stage&, list<Stage>&);
-		bool DFS(Stage&);
+		bool DFS(Stage&, list<Stage>&);
 
 		bool CheckIfEnd(Stage&);
 		bool Control();

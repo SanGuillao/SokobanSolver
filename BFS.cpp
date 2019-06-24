@@ -2,6 +2,7 @@
 
 bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 {
+	time(&begin);
 	std::queue<Stage> queueStages;
 	int counter = 0;
 
@@ -49,13 +50,15 @@ bool Sokoban::BFS(Stage& current, list<Stage>& closedList)
 		}
 		else
 		{
-			cout << "Could not find a solution" << endl;
+			cout << "BFS could not find a solution. Exiting now..." << endl;
 			return false;
 		}
 
 
 	} while (!CheckIfEnd(current));
 
+	time(&end);
+	cout << "BFS has found a solution. Outputting to BFS_Output.txt now..." << endl;
 	OutputList(closedList);
 	return true;
 }

@@ -149,6 +149,7 @@ bool Sokoban::Initialize(Stage& current)
 
 bool Sokoban::OutputList(list<Stage>& closedList)
 {
+	double difference = 0;
 	std::ofstream outFile;
 	outFile.open("BFS_Output.txt", std::ofstream::out);
 
@@ -169,6 +170,9 @@ bool Sokoban::OutputList(list<Stage>& closedList)
 			outFile << endl;
 		}
 	}
+
+	difference = difftime(end, begin);
+	outFile << "\nThis search took: " << difference << " secs" << endl;
 
 	return true;
 }

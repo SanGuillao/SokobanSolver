@@ -6,13 +6,25 @@ bool Sokoban::IsStageDead(Stage& temp)
 	{
 		for (int j = 0; j < temp.GetCol(); j++)
 		{
+			if (temp.matrix[i][j] == 'B')
+			{
+				for (list<StorageLoc>::iterator itr = listOfStorageLoc.begin(); itr != listOfStorageLoc.end(); itr++)
+				{
+					if (i == itr->row && j == itr->col)
+						return false;
+				}
+			}
+			// find box, check above and to the right, to see if in a corner
 			if (temp.matrix[i][j] == 'B' && temp.matrix[i - 1][j] == 'O' && temp.matrix[i][j + 1] == 'O')
 				return true;
+			// find box, check above and to the left, to see if in a corner
 			if (temp.matrix[i][j] == 'B' && temp.matrix[i - 1][j] == 'O' && temp.matrix[i][j - 1] == 'O')
 				return true;
-			if (temp.matrix[i][j] == 'B' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i][j + 1] == 'O')
+			// find box, check below and to the right, to see if in a corner
+			if (temp.matrix[i][j] == 'B' && temp.matrix[i + 1][j] == 'O' && temp.matrix[i][j + 1] == 'O')
 				return true;
-			if (temp.matrix[i][j] == 'B' && temp.matrix[i + 1][j] == 'B' && temp.matrix[i][j - 1] == 'O')
+			// find box, check below and to the left, to see if in a corner
+			if (temp.matrix[i][j] == 'B' && temp.matrix[i + 1][j] == 'O' && temp.matrix[i][j - 1] == 'O')
 				return true;
 		}
 	}
@@ -24,15 +36,15 @@ Sokoban::Stage Sokoban::MoveUp(Stage& current)
 	Stage temp(current.GetRow(), current.GetCol());
 	CopyStages(temp, current);
 
-	if ((temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'O') ||
-		(temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row - 2][locationOfRobot.col] == 'B') ||
-		(temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row - 2][locationOfRobot.col] == 'O'))
+	if (IsStageDead(temp))
 	{
 		temp.SetIsDead(true);
 		return temp;
 	}
 
-	if (IsStageDead(temp))
+	if ((temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'O') ||
+		(temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row - 2][locationOfRobot.col] == 'B') ||
+		(temp.matrix[locationOfRobot.row - 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row - 2][locationOfRobot.col] == 'O'))
 	{
 		temp.SetIsDead(true);
 		return temp;
@@ -79,15 +91,15 @@ Sokoban::Stage Sokoban::MoveDown(Stage& current)
 	Stage temp(current.GetRow(), current.GetCol());
 	CopyStages(temp, current);
 
-	if ((temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'O') ||
-		(temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row + 2][locationOfRobot.col] == 'B') ||
-		(temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row + 2][locationOfRobot.col] == 'O'))
+	if (IsStageDead(temp))
 	{
 		temp.SetIsDead(true);
 		return temp;
 	}
 
-	if (IsStageDead(temp))
+	if ((temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'O') ||
+		(temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row + 2][locationOfRobot.col] == 'B') ||
+		(temp.matrix[locationOfRobot.row + 1][locationOfRobot.col] == 'B' && temp.matrix[locationOfRobot.row + 2][locationOfRobot.col] == 'O'))
 	{
 		temp.SetIsDead(true);
 		return temp;
@@ -134,15 +146,15 @@ Sokoban::Stage Sokoban::MoveRight(Stage& current)
 	Stage temp(current.GetRow(), current.GetCol());
 	CopyStages(temp, current);
 
-	if ((temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'O') ||
-		(temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col + 2] == 'B') ||
-		(temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col + 2] == 'O'))
+	if (IsStageDead(temp))
 	{
 		temp.SetIsDead(true);
 		return temp;
 	}
 
-	if (IsStageDead(temp))
+	if ((temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'O') ||
+		(temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col + 2] == 'B') ||
+		(temp.matrix[locationOfRobot.row][locationOfRobot.col + 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col + 2] == 'O'))
 	{
 		temp.SetIsDead(true);
 		return temp;
@@ -189,15 +201,15 @@ Sokoban::Stage Sokoban::MoveLeft(Stage& current)
 	Stage temp(current.GetRow(), current.GetCol());
 	CopyStages(temp, current);
 
-	if ((temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'O') ||
-		(temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col - 2] == 'B') ||
-		(temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col - 2] == 'O'))
+	if (IsStageDead(temp))
 	{
 		temp.SetIsDead(true);
 		return temp;
 	}
 
-	if (IsStageDead(temp))
+	if ((temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'O') ||
+		(temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col - 2] == 'B') ||
+		(temp.matrix[locationOfRobot.row][locationOfRobot.col - 1] == 'B' && temp.matrix[locationOfRobot.row][locationOfRobot.col - 2] == 'O'))
 	{
 		temp.SetIsDead(true);
 		return temp;
