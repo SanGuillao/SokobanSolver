@@ -1,0 +1,6498 @@
+OOOOOOOO
+O   OR O
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O  ROB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O R OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OR  OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   OB O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OBRO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O RO
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BRO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BRO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   BR O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   BR O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  BR  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O BR   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+ORB    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O B    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O B    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+ORB O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O RBO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O BRO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OBR O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O BROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OBR OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+ORB OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O RBOB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O B OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BRO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   BR O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B RO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O   B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O   B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  BR  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O BR   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O BRO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+OBR O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBR    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+OB     O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+OB     O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+OBB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+OB     O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB R   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O BRO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+OBR O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  R  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   R O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB    RO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB     O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB     O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O B    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O B    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O B    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+ORB    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+ORB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O RBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O RB   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+ORB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O RBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O  B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O  B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O  B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O BBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  RB  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O BRO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+OBR O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR  B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+ORB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O RBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O   B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O   B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O   B  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   RB O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O BRO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+OBR O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R  B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR   B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+ORB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O RBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O    B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O    B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O    B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    RBO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O BO
+O     RO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R  BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O BRO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+OBR O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R   BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR    BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+ORB O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O RBO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O     BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O     BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O     BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O     BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O     BO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O RO
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OR O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O BRO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OBR O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+ORB O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O RBO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O B O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O RO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B OR O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOORBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOO BO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOO BO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O  O
+OOOOO BO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O BO
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O BO
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O BO
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B O BO
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O B ORBO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O BRO BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OBR O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+ORB O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O RBO BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O B O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O BRO  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OBR O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+ORB O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O RBO  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O B O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B R  O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B  R O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B   RO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O B    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O B    O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B R O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O B O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B  RO
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O  B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O  B   O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O    B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O    B O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OB O
+O    R O
+O B O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O B O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O B    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O RB   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR B   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O  B   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O  B   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O  B   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O  BO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  BO  O
+O  R   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  RB  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR  B  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O   B  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O   B  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R B  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O   B  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   RB O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR   B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R  B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O    B O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    RBO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O BO
+O     RO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BBO
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O BO
+O    BRO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OB O
+O    RBO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O BO
+O     RO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R  BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR    BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O     BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O     BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R   BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O     BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O     BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O     BO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O RO
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O  O
+OOOOOBRO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O RO
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OR O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O  O
+OOOOORSO
+    OBBO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O  RO  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O R O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OR  O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   O  O
+OOOOOBSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OR O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O  O
+OOOOORBO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OR O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O  RO  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O R O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OR  O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   O  O
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O RO
+OOOOO BO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O  O
+OOOOO RO
+    OBBO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O  RO  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O R O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OR  O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   O  O
+OOOOOBBO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    R O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   ORBO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O BO
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R  O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O  RO BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O R O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+OR  O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O      O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O      O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R    O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O      O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O      O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O      O
+O   O BO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    R O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     RO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    R O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O      O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    BRO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   BR O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  BR  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O BR   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+ORB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O RB   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O  B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O  B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BBO  O
+O  R   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  RB  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   B  O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR  B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   RB O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    B O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR   B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R  B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    RBO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O BO
+O     RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R  BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     BO
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR    BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R   BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O     BO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     RO
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O RO
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OR O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O    R O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+OR     O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+ORB O  O
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O RBO  O
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O R    O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O BRO  O
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OBR O  O
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B OR O
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O RO
+O      O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O     RO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O RO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   OR O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOORBO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOO BO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOO BO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O  O
+OOOOO BO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O BO
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O BO
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O BO
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   O BO
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O   ORBO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    R O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R  O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R   O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O  RO BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O R O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+OR  O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR     O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R    O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O      O
+O   O BO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O    R O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O   R  O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  R   O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O  RO  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+O R O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O      O
+OR  O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OR     O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+ORB O  O
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O RBO  O
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O R    O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O      O
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     RO
+O   O  O
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OBR    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBB O  O
+OR     O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB R   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+OB     O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+OB     O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB  R  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB   R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+OB     O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+OB    RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+OB     O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+OB     O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O BRO  O
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OBR O  O
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B R  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B  R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O B    O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O B   RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O B    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B   O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O  B  RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O  B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O  B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O    B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B OB O
+O    R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O B O  O
+O     RO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B O RO
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O B OR O
+O      O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBR    O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O R O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+OR  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OB  O  O
+OR     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O  RO  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB R   O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+OB     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+OB     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+OB     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+OB  O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  R  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   R O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O   OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB    RO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   R O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  R  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB R   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB     O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OB  O  O
+OR     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBR    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+OB     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+OB     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR     O
+OB  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+OB     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB     O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   B O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB   BRO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  BR O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B  O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB  B RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB  B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB  B  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB BR  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBBR   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O  RO  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O R O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+OR  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OB  O  O
+ORB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+OBB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+OBB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+OBB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+ORB    O
+OB  O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB R  O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB  R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB    O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OBB   RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OBB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OBB    O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   OR O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O  O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B   O
+O   O RO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB B  RO
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB B   O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB   B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB   B O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OB O
+OB   R O
+O   O  O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OB    RO
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+OB     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+OB     O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B R  O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B  R O
+O   O  O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OR O
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   O  O
+OOOOORSO
+    OBSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   O RO
+OOOOOBSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   O  O
+OOOOOBRO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   O  O
+OOOOOBSO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   O  O
+OOOOOBSO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOORSO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO RO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO SO
+    O RO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OB O
+OOOOO SO
+    ORSO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O   OBRO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B   RO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B  R O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B R  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O BR   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+ORB    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O B    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O B    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O B    O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O RB   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR B   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O  B   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O  B   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O  B   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O  BOB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  BO  O
+O  R   O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  RB  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR  B  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O   B  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O   B  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R B  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O   B  O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   RB O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR   B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O    B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O    B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R  B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O    B O
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O    RBO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R  BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O  ROB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O R OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+OR  OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+OR    BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+OR  O  O
+O     BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O R O  O
+O     BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O R   BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O  RO  O
+O     BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   OR O
+O     BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O RO
+O     BO
+O   OB O
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   OBBO
+OOOOO SO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OBRO
+OOOOO BO
+    O SO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   OB O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   OR O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O   O RO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    BRO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   BR O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   OR O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O  O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O  O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O   O RO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B RO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O RO
+O   B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   OR O
+O   B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  BR  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O BR   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O B    O
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+ORB    O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O B    O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O B    O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O B    O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O RB   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR B   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O  B   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O  B   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O  B   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R   O
+O  BO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  B   O
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  BO  O
+O  R   O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  RB  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   B  O
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR  B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O   B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O R B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O   B  O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   RB O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    B O
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR   B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O    B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O    B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O R  B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O    B O
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O    RBO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   OR O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOO SO
+    ORBO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOO RO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O  O
+OOOOORSO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O   O RO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O BO
+O     RO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O   R BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O  R  BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O  RO  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+O R O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     BO
+OR  O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+OR    BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+OR  O  O
+O     BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O R O  O
+O     BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O R   BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O  RO  O
+O     BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   OR O
+O     BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O RO
+O     BO
+O   O  O
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O     RO
+O   O BO
+OOOOO SO
+    O BO
+    OOOO
+OOOOOOOO
+O   O  O
+O      O
+O   O RO
+OOOOO BO
+    O BO
+    OOOO
+
+This search took: 2 secs
